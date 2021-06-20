@@ -10,7 +10,4 @@ Then update the remote to your personal repository (If you dont currently have o
     git remote set-url origin https://<my new git repo>
 
 # Challenges
-## Design
-
-Using the [mtcars](/mtcars.csv) dataset, produce two different designes to show how you would present the data on a page in a web application. 
-This can be UML or other markup, designed can be hand drawn and scanned. Add a breif description.
+* [Design](/Challenges/Design/README.md) 
