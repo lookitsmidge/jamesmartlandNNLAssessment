@@ -8,6 +8,7 @@ To start, take clone of this repository
 Then update the remote to your personal repository (If you dont currently have on, you can create a new repotistory on [Github](https://github.com/))
     
     git remote set-url origin https://<my new git repo>
+    git push -u origin --all
 
 # Challenges
 * [Design](/Challenges/Design/README.md) 
