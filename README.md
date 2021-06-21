@@ -11,6 +11,9 @@ Then update the remote to your personal repository (If you dont currently have o
     git push -u origin --all
 
 # Challenges
+
+Each of the challenges can be found in the links below. The challenges can be completed in any order, and all answers should be uploaded to the same repository.
+
 * [Design](/Challenges/Design/README.md) 
 * [Devlop](/Challenges/Develop/README.md)
 * [Review](/Challenges/Review/README.md)
