@@ -6,7 +6,10 @@ namespace EventLog
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            using (var logger = new Logger(1))
+            {
+                //Do things here
+            }
         }
     }
 }

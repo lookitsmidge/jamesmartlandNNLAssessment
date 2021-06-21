@@ -5,7 +5,7 @@ This challenge is to create a simplete application with a very basic user interf
 ## Requirements
 
 * Create a console application in c# or Java 
-* Can read the [mtcars](./mtcars.csv) dataset & display it.
+* Can read the [mtcars](/mtcars.csv) dataset & display it.
 * Allows editing of rows
 * Saves Data back to the csv
 
