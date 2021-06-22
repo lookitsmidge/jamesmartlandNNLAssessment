@@ -1,5 +1,5 @@
 # Introduction 
-This Repo contains the Software Developer coding challenge. Once you have complete the challenge, send a link of your comleteted repo to <graham.eccleston@uknnl.com>
+This Repo contains the Software Developer coding challenge. Once you have complete the challenge, send a link of your comleted repo to <graham.eccleston@uknnl.com>
 
 To start, take a clone of this repository
 
