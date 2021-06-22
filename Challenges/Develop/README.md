@@ -14,4 +14,4 @@ This challenge is to create a simple application with a very basic user interfac
 * Input Validation.
 
 # Summary
-Write a breif summary of additional changes you would propose to improve the application.
+Write a brief summary of additional changes you would propose to improve the application.
