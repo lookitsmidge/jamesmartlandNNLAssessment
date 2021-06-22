@@ -4,7 +4,7 @@ Using the [mtcars](/mtcars.csv) dataset, produce two different designs to show h
 * Designs can be UML or other markup.
 * Designs can be hand drawn.
 * Designs should be added to this folder of the repository.
-* Add a brief description of you designs below.
+* Add a brief description of your designs below.
 
 # Descriptions
 
