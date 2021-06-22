@@ -1,11 +1,11 @@
 # Introduction 
 This Repo contains the Software Developer coding challenge. Once you have complete the challenge, send a link of your comleteted repo to <graham.eccleston@uknnl.com>
 
-To start, take clone of this repository
+To start, take a clone of this repository
 
     git clone https://grahameccleston0355@dev.azure.com/grahameccleston0355/Assesment/_git/Assesment
 
-Then update the remote address to that of your personal repository (If you dont currently have on, you can create a new repotistory on [Github](https://github.com/) or [DevOps](https://dev.azure.com))
+Then update the remote address to that of your personal repository (If you dont currently have one, you can create a new repotistory on [Github](https://github.com/) or [DevOps](https://dev.azure.com))
     
     git remote set-url origin https://<my new git repo>
     git push -u origin --all
