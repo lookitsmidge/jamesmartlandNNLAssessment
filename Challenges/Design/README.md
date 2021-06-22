@@ -1,10 +1,10 @@
 # Design Challenge
 
-Using the [mtcars](/mtcars.csv) dataset, produce two different designes to show how you would present the data on a page in a web application. 
-* Deisigns can be UML or other markup.
-* Designed can be hand drawn.
+Using the [mtcars](/mtcars.csv) dataset, produce two different designs to show how you would present the data on a page in a web application. 
+* Designs can be UML or other markup.
+* Designs can be hand drawn.
 * Designs should be added to this folder of the repository.
-* Add a breif description of you designs below.
+* Add a brief description of you designs below.
 
 # Descriptions
 
