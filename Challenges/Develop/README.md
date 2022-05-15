@@ -15,3 +15,6 @@ This challenge is to create a simple application with a very basic user interfac
 
 # Summary
 Write a brief summary of additional changes you would propose to improve the application.
+
+I would propose that a filtering algorithm be added to the system, so that cars with certain attributes can be found and compared.
+I would also propose that two cars can be selected and compared, to find out which of the two cars has higher weight, hp, quarter mile time and mgp values.
