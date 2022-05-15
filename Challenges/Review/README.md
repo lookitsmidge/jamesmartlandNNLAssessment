@@ -8,4 +8,9 @@ Review the code in the Logger.cs class and suggest any ammendments you feel shou
 
 | Line(s) | Suggested Change | Reasoning |
 |---------|------------------|-----------|
+|  13-20  | change if-else statement to a conditional statement  |           |
+|         |                  |           |
+|         |                  |           |
+|         |                  |           |
+|         |                  |           |
 |         |                  |           |
