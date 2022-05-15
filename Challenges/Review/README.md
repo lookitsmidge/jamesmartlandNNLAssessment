@@ -8,7 +8,7 @@ Review the code in the Logger.cs class and suggest any ammendments you feel shou
 
 | Line(s) | Suggested Change | Reasoning |
 |---------|------------------|-----------|
-|  13-20  | change if-else statement to a conditional statement | as the if statement is to set a value to a variable based on what was input; it is easier to use a conditional as it can easily return a value based on a condition; also seeing as though there are no nested if statements, this also aids in readability. |
+|  13-20  | change if-else statement to a conditional statement i.e ( _et = et==0 ? new EventSourceA() : new EventSourceB(); | as the if statement is to set a value to a variable based on what was input; it is easier to use a conditional as it can easily return a value based on a condition; also seeing as though there are no nested if statements, this also aids in readability. |
 |         |                  |           |
 |         |                  |           |
 |         |                  |           |
