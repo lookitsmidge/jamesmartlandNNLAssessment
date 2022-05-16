@@ -1,0 +1,16 @@
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\bin\Debug\net6.0\jamesmartlandNNL.exe
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\bin\Debug\net6.0\jamesmartlandNNL.deps.json
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\bin\Debug\net6.0\jamesmartlandNNL.runtimeconfig.json
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\bin\Debug\net6.0\jamesmartlandNNL.dll
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\bin\Debug\net6.0\jamesmartlandNNL.pdb
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\obj\Debug\net6.0\jamesmartlandNNL.csproj.AssemblyReference.cache
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\obj\Debug\net6.0\jamesmartlandNNL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\obj\Debug\net6.0\jamesmartlandNNL.AssemblyInfoInputs.cache
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\obj\Debug\net6.0\jamesmartlandNNL.AssemblyInfo.cs
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\obj\Debug\net6.0\jamesmartlandNNL.csproj.CoreCompileInputs.cache
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\obj\Debug\net6.0\jamesmartlandNNL.dll
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\obj\Debug\net6.0\refint\jamesmartlandNNL.dll
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\obj\Debug\net6.0\jamesmartlandNNL.pdb
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\obj\Debug\net6.0\jamesmartlandNNL.genruntimeconfig.cache
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\obj\Debug\net6.0\ref\jamesmartlandNNL.dll
+C:\Users\90jma\source\repos\jamesmartlandNNL\jamesmartlandNNL\bin\Debug\net6.0\mtcars.csv
