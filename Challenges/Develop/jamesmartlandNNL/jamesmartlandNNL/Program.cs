@@ -81,15 +81,6 @@ namespace jamesmartlandNNL
          */
         static void Initialise()
         {
-            //if("Aharlie".CompareTo("Beta")<0)
-            //{
-            //    Console.WriteLine("A");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("B");
-            //}
-            
             CarDatabase.Clear(); // Delete All From Database
             Console.WriteLine("Loading From CSV... Please Stand By");
             using (var reader = new StreamReader(csvDirectory))
